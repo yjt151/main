@@ -38,3 +38,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+修改components和stores里面的文件时 需要进入对应文件里面 进行单独提交

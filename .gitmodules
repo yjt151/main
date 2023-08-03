@@ -1,0 +1,6 @@
+[submodule "src/components"]
+	path = src/components
+	url = git@github.com:yjt151/components.git
+[submodule "src/stores"]
+	path = src/stores
+	url = git@github.com:yjt151/stores.git
